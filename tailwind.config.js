@@ -11,8 +11,9 @@ export const theme = {
     },
     colors: {
       primary: "#6B7280",
+      secondary: "#6f4D38",
       accent: "#D6A373",
-      background: "#FAF9F7",
+      background: "#A07856",
       canvas: "#F5F5F4",
     },
     fontSize: {
